@@ -1,0 +1,7 @@
+Financial Analysis:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Total Months: {rownum}
+Net Total: ${net_total}
+Average Total Change: $ {round(average, 2)}
+Greatest Increase in Profits: {max_date} ${mp}
+Greatest Decrease in Losses: {min_date} ${ml}
