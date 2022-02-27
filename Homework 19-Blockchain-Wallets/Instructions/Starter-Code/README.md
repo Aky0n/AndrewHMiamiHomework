@@ -116,6 +116,15 @@ Now it's time to put it all together and test the Fintech Finder application wit
 
 * Submit the link to your GitHub repo on Bootcamp Spot.
 
+## Streamlit, Jo is hired !!
+
+![](../Starter-Code/Images/Crypto_Wallet.png)
+
+## Ganache Address Balance & History
+
+![](../Starter-Code/Images/Crypto_Wallet2.png)
+
+![](../Starter-Code/Images/Crypto_Wallet3.png)
 ---
 
 © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
