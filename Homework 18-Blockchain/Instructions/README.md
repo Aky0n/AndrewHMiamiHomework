@@ -100,7 +100,7 @@ You’ll upload the Python file for this assignment to your GitHub repository.
 
 ### Streamlit Application Page Screenshot
 
-![](Instructions/images/Streamlit_Blocks.png)
+![](../Instructions/Images/Streamlit_Blocks.png)
 ---
 
 © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
